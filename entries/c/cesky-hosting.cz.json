@@ -1,0 +1,13 @@
+{
+    "Český Hosting": {
+      "domain": "cesky-hosting.cz",
+      "tfa": [
+        "totp"
+      ],
+      "documentation": "https://www.cesky-hosting.cz/napoveda/klientska-sekce/prihlaseni/#dvoufaktorova-autentizace",
+      "categories": [
+        "domains",
+        "hosting"
+      ]
+    }
+}
